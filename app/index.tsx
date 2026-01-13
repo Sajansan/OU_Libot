@@ -1,5 +1,5 @@
-import AppDashboard from '../components/example';
+import Banking from "../components/banking";
 
 export default function Index() {
-  return <AppDashboard />;
+  return <Banking />;
 }
